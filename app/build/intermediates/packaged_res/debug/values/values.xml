@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="groupes">
+        <item>Choisir un groupe</item>
+        <item>G1</item>
+        <item>G2</item>
+        <item>G3</item>
+         <item>G4</item>
+    </string-array>
+    <string name="app_name">Atelier Android</string>
+    <string name="btn_afficher">Afficher la fiche</string>
+    <string name="btn_effacer">Effacer</string>
+    <string name="hint_age">Saisir votre âge</string>
+    <string name="hint_nom">Saisir votre nom</string>
+    <string name="hint_prenom">Saisir votre prénom</string>
+    <string name="resultat_initial">Votre fiche apparaîtra ici</string>
+    <string name="sous_titre">Formulaire d\'inscription</string>
+    <string name="titre">Atelier Android</string>
+</resources>

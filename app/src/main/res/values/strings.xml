@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atelier Android</string>
+    <string name="titre">Atelier Android</string>
+    <string name="sous_titre">Formulaire d\'inscription</string>
+    <string name="hint_nom">Saisir votre nom</string>
+    <string name="hint_prenom">Saisir votre prénom</string>
+    <string name="hint_age">Saisir votre âge</string>
+    <string name="btn_afficher">Afficher la fiche</string>
+    <string name="btn_effacer">Effacer</string>
+    <string name="resultat_initial">Votre fiche apparaîtra ici</string>
+</resources>

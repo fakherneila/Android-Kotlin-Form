@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+array groupes
+id btnAfficher
+id btnEffacer
+id cbConfirmation
+id etAge
+id etNom
+id etPrenom
+id rbEmulateur
+id rbTelephone
+id rgSupport
+id spGroupe
+id tvPlaces
+id tvResultat
+id tvTitre
+layout activity_main
+string app_name
+string btn_afficher
+string btn_effacer
+string hint_age
+string hint_nom
+string hint_prenom
+string resultat_initial
+string sous_titre
+string titre
